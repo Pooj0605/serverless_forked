@@ -33,7 +33,7 @@ if (!data || !data.email) {
       return;
     }
     // Generate verification link
-    const verificationLink = `http://poojacloud24.pw:8080/v1/user/verify?token=${data.verificationToken}`;
+    const verificationLink = `https://poojacloud24.pw/v1/user/verify?token=${data.verificationToken}`;
 
     // Send verification email
     const emailData = {

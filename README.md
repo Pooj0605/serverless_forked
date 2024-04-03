@@ -24,3 +24,6 @@ Utilize MySQL Cloud Instances with private IP addresses.
 Use a VPC connector created on the cloud function to securely access the MySQL instances.
 Conclusion
 By following these steps, you can implement a cloud function on Google Cloud Platform to handle user registration, email verification, and integration with MySQL Cloud Instances efficiently. Ensure proper testing and monitoring of the cloud function for optimal performance and reliability.
+
+Updates :
+The post method URL changes from http to https : https://poojacloud24.pw/v1/user
